@@ -22,3 +22,9 @@ num3 = 13.42
 num4 = 42.13
 result4 = int(num3) == int((num4 - int(num4)) * 100) or int(num4) == int((num3 - int(num3)) * 100)
 print(result4)
+
+# 5th program
+number1 = 25
+number2 = 4
+result5 = (number1 % number2) * (number1 // number2)
+print(result5)
