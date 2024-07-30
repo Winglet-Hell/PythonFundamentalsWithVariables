@@ -24,3 +24,4 @@ result4 = int(num3) == int((num4 - int(num4)) * 100) or int(num4) == int((num3 -
 print(result4)
 
 print(123+1)
+print(123+1)
